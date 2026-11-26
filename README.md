@@ -1,4 +1,4 @@
-# there-there-app
+# There There
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,144 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-there-there-app is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://there-there.app/
+There There provides an AI‑powered helpdesk for support teams, handling email, chat, a public Help Center and automations. It drafts email replies for review and answers chat questions using your documentation and past tickets, with optional AI features and GDPR‑compliant data handling on EU infrastructure.
+
+**Areas:** AI · Helpdesk · Customer Support · Automation · GDPR
+
+## There There on APIs.io
+
+Everything profiled for There There is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/there-there-app/](https://apis.io/providers/there-there-app/)** — or go straight to one of the APIs or properties below.
+
+### APIs (19)
+
+- [There There API](https://apis.io/apis/there-there-app/there-there-api/) — REST API for There There helpdesk platform
+- [There There Brain articles API](https://apis.io/apis/there-there-app/there-there-app-brain-articles-api/) — The Brain articles API from There There — 2 operation(s) for brain articles.
+- [There There Brains API](https://apis.io/apis/there-there-app/there-there-app-brains-api/) — The Brains API from There There — 2 operation(s) for brains.
+- [There There Channels API](https://apis.io/apis/there-there-app/there-there-app-channels-api/) — The Channels API from There There — 2 operation(s) for channels.
+- [There There Companies API](https://apis.io/apis/there-there-app/there-there-app-companies-api/) — The Companies API from There There — 2 operation(s) for companies.
+- [There There Contacts API](https://apis.io/apis/there-there-app/there-there-app-contacts-api/) — The Contacts API from There There — 2 operation(s) for contacts.
+- [There There Custom fields API](https://apis.io/apis/there-there-app/there-there-app-custom-fields-api/) — The Custom fields API from There There — 1 operation(s) for custom fields.
+- [There There Me API](https://apis.io/apis/there-there-app/there-there-app-me-api/) — The Me API from There There — 1 operation(s) for me.
+- [There There Members API](https://apis.io/apis/there-there-app/there-there-app-members-api/) — The Members API from There There — 3 operation(s) for members.
+- [There There Quick replies API](https://apis.io/apis/there-there-app/there-there-app-quick-replies-api/) — The Quick replies API from There There — 2 operation(s) for quick replies.
+- [There There Saved views API](https://apis.io/apis/there-there-app/there-there-app-saved-views-api/) — The Saved views API from There There — 2 operation(s) for saved views.
+- [There There Tags API](https://apis.io/apis/there-there-app/there-there-app-tags-api/) — The Tags API from There There — 2 operation(s) for tags.
+- [There There Teams API](https://apis.io/apis/there-there-app/there-there-app-teams-api/) — The Teams API from There There — 3 operation(s) for teams.
+- [There There Ticket activities API](https://apis.io/apis/there-there-app/there-there-app-ticket-activities-api/) — The Ticket activities API from There There — 1 operation(s) for ticket activities.
+- [There There Ticket custom fields API](https://apis.io/apis/there-there-app/there-there-app-ticket-custom-fields-api/) — The Ticket custom fields API from There There — 1 operation(s) for ticket custom fields.
+- [There There Ticket messages API](https://apis.io/apis/there-there-app/there-there-app-ticket-messages-api/) — The Ticket messages API from There There — 6 operation(s) for ticket messages.
+- [There There Ticket tags API](https://apis.io/apis/there-there-app/there-there-app-ticket-tags-api/) — The Ticket tags API from There There — 1 operation(s) for ticket tags.
+- [There There Tickets API](https://apis.io/apis/there-there-app/there-there-app-tickets-api/) — The Tickets API from There There — 11 operation(s) for tickets.
+- [There There Workflows API](https://apis.io/apis/there-there-app/there-there-app-workflows-api/) — The Workflows API from There There — 2 operation(s) for workflows.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### AsyncAPI (1)
+
+Event-driven and webhook contracts.
+
+- [There There App Webhooks](https://apis.io/asyncapis/there-there-app/there-there-app-webhooks/)
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [There There Agentic Access](https://apis.io/agentic-access/there-there-app/there-there-app-agentic-access/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [There There App Context](https://apis.io/jsonld/there-there-app/there-there-app-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [There There API Rules](https://apis.io/rules/there-there-app/there-there-app-rules/)
+
+#### Security (3)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [There There Authentication](https://apis.io/security/there-there-app/there-there-app-authentication/)
+- [There There Domain Security](https://apis.io/security/there-there-app/there-there-app-domain-security/)
+- [There There Vulnerability Disclosure](https://apis.io/security/there-there-app/there-there-app-vulnerability-disclosure/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [There There Plans Pricing](https://apis.io/plans/there-there-app/there-there-app-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://there-there.app/)
+- [Documentation](https://there-there.app/docs/)
+- [Getting started](https://there-there.app/docs/getting-started)
+- [API reference](https://there-there.app/docs/api)
+- [Pricing](https://there-there.app/pricing)
+- [Changelog](https://there-there.app/changelog)
+- [Blog](https://there-there.app/blog)
+- [Privacy policy](https://there-there.app/privacy-policy)
+- [Status](https://status.there-there.app/)
+
+## API Evangelist rating
+
+**Kin Score 61.1** — strong · rubric 0.27.0 · scored 2026-11-26
+
+| Facet | Score |
+|---|---|
+| Discoverability | 57.1 |
+| Contract quality | 56.6 |
+| Contract governance | 79.1 |
+| Operational transparency | 50.0 |
+| Developer ergonomics | 56.4 |
+| Access clarity | 62.6 |
+
+**Agent readiness 53.6** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | partial |
+| Rate Limit Signal | — |
+| Event Surface Described | unknown |
+| Agent Skills | unknown |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | — |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 24.5** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/there-there-app/](https://apis.io/providers/there-there-app/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for There There: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/there-there-app/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
